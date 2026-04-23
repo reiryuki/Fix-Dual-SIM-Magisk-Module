@@ -1,13 +1,18 @@
 # Fix Dual SIM Magisk Module
 
 ## Descriptions
-- Fixes dual SIM function in any ROMs especially in GSI
+Fixes dual SIM function in any ROMs especially in GSI
+
+## Changelog
+
+v0.1
+- Initial release
 
 ## Requirements
-- Magisk/KernelSU/Apatch/Kitsune Mask installed
+Magisk/KernelSU/Apatch/Kitsune Mask installed
 
 ## Installation Guide & Download Link
-- Install this module https://www.pling.com/p/2283941/ via Magisk/KernelSU/Apatch/Kitsune Mask app or Recovery if Magisk/Kitsune Mask installed
+- Install this module via Magisk/KernelSU/Apatch/Kitsune Mask app or Recovery if Magisk/Kitsune Mask installed
 - Reboot
 
 ## Support & Bug Report
@@ -19,6 +24,6 @@
 - You can contribute ideas about this Magisk Module here: https://t.me/androidappsportdevelopment
 
 ## Sponsors
-- https://t.me/ryukinotes/25
+https://t.me/ryukinotes/25
 
 
